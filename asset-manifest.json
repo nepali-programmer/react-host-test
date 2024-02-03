@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dbc5483a.css",
+    "main.js": "/static/js/main.4b31cc7e.js",
+    "static/media/get_started.png": "/static/media/get_started.07c465f093146ecec6a8.png",
+    "static/media/affordable_courses.png": "/static/media/affordable_courses.52dbc678803ff7f8ca54.png",
+    "static/media/practive_test.png": "/static/media/practive_test.d146f6ae2dae5189cc18.png",
+    "static/media/consultant.png": "/static/media/consultant.46501320ce9701c0783d.png",
+    "static/media/skilled_teacher.png": "/static/media/skilled_teacher.fc30ffd3f67a1170390c.png",
+    "index.html": "/index.html",
+    "main.dbc5483a.css.map": "/static/css/main.dbc5483a.css.map",
+    "main.4b31cc7e.js.map": "/static/js/main.4b31cc7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbc5483a.css",
+    "static/js/main.4b31cc7e.js"
+  ]
+}
