@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-host-test/static/css/main.dbc5483a.css",
-    "main.js": "/react-host-test/static/js/main.635ed66b.js",
+    "main.js": "/react-host-test/static/js/main.ab590268.js",
     "static/media/get_started.png": "/react-host-test/static/media/get_started.07c465f093146ecec6a8.png",
     "static/media/affordable_courses.png": "/react-host-test/static/media/affordable_courses.52dbc678803ff7f8ca54.png",
     "static/media/practive_test.png": "/react-host-test/static/media/practive_test.d146f6ae2dae5189cc18.png",
@@ -9,10 +9,10 @@
     "static/media/skilled_teacher.png": "/react-host-test/static/media/skilled_teacher.fc30ffd3f67a1170390c.png",
     "index.html": "/react-host-test/index.html",
     "main.dbc5483a.css.map": "/react-host-test/static/css/main.dbc5483a.css.map",
-    "main.635ed66b.js.map": "/react-host-test/static/js/main.635ed66b.js.map"
+    "main.ab590268.js.map": "/react-host-test/static/js/main.ab590268.js.map"
   },
   "entrypoints": [
     "static/css/main.dbc5483a.css",
-    "static/js/main.635ed66b.js"
+    "static/js/main.ab590268.js"
   ]
 }
