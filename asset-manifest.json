@@ -1,18 +1,31 @@
 {
   "files": {
-    "main.css": "/react-host-test/static/css/main.dbc5483a.css",
-    "main.js": "/react-host-test/static/js/main.ab590268.js",
-    "static/media/get_started.png": "/react-host-test/static/media/get_started.07c465f093146ecec6a8.png",
+    "main.css": "/react-host-test/static/css/main.0292c8b9.css",
+    "main.js": "/react-host-test/static/js/main.b1838347.js",
+    "static/media/get_started.png": "/react-host-test/static/media/get_started.d69f0d4709197d195596.png",
+    "static/media/premium_featured.png": "/react-host-test/static/media/premium_featured.6630cf1a4b84648e8510.png",
+    "static/media/osr_featured.png": "/react-host-test/static/media/osr_featured.f35ee41e15546d3cfdad.png",
+    "static/media/home_contact_us.png": "/react-host-test/static/media/home_contact_us.2528c34902ee9e9fbd60.png",
+    "static/media/starter_featured.png": "/react-host-test/static/media/starter_featured.b225af9af9ea5d29d0bf.png",
     "static/media/affordable_courses.png": "/react-host-test/static/media/affordable_courses.52dbc678803ff7f8ca54.png",
     "static/media/practive_test.png": "/react-host-test/static/media/practive_test.d146f6ae2dae5189cc18.png",
     "static/media/consultant.png": "/react-host-test/static/media/consultant.46501320ce9701c0783d.png",
     "static/media/skilled_teacher.png": "/react-host-test/static/media/skilled_teacher.fc30ffd3f67a1170390c.png",
+    "static/media/revicons.eot": "/react-host-test/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/react-host-test/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/react-host-test/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/person_outlined.svg": "/react-host-test/static/media/person_outlined.7bf28d24cc3181255bcdb827573b3b2a.svg",
     "index.html": "/react-host-test/index.html",
-    "main.dbc5483a.css.map": "/react-host-test/static/css/main.dbc5483a.css.map",
-    "main.ab590268.js.map": "/react-host-test/static/js/main.ab590268.js.map"
+    "static/media/study_package_light_check.svg": "/react-host-test/static/media/study_package_light_check.4338ee83d2fbcc806d18af6f1ed775a8.svg",
+    "static/media/study_package_dark_check.svg": "/react-host-test/static/media/study_package_dark_check.543c72cde4a8ca44d581517dbc85fc09.svg",
+    "static/media/carousel_right.svg": "/react-host-test/static/media/carousel_right.37054014cba8cbc31f3283bb522027d5.svg",
+    "static/media/carousel_left.svg": "/react-host-test/static/media/carousel_left.edfe6fd2fc91569422c1ad6b7795ff2b.svg",
+    "static/media/star.svg": "/react-host-test/static/media/star.70fa46619e1bdaf1875e7515041ee136.svg",
+    "main.0292c8b9.css.map": "/react-host-test/static/css/main.0292c8b9.css.map",
+    "main.b1838347.js.map": "/react-host-test/static/js/main.b1838347.js.map"
   },
   "entrypoints": [
-    "static/css/main.dbc5483a.css",
-    "static/js/main.ab590268.js"
+    "static/css/main.0292c8b9.css",
+    "static/js/main.b1838347.js"
   ]
 }
