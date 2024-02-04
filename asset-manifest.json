@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-host-test/static/css/main.0292c8b9.css",
-    "main.js": "/react-host-test/static/js/main.b1838347.js",
+    "main.js": "/react-host-test/static/js/main.3fc38849.js",
     "static/media/get_started.png": "/react-host-test/static/media/get_started.d69f0d4709197d195596.png",
     "static/media/premium_featured.png": "/react-host-test/static/media/premium_featured.6630cf1a4b84648e8510.png",
     "static/media/osr_featured.png": "/react-host-test/static/media/osr_featured.f35ee41e15546d3cfdad.png",
@@ -22,10 +22,10 @@
     "static/media/carousel_left.svg": "/react-host-test/static/media/carousel_left.edfe6fd2fc91569422c1ad6b7795ff2b.svg",
     "static/media/star.svg": "/react-host-test/static/media/star.70fa46619e1bdaf1875e7515041ee136.svg",
     "main.0292c8b9.css.map": "/react-host-test/static/css/main.0292c8b9.css.map",
-    "main.b1838347.js.map": "/react-host-test/static/js/main.b1838347.js.map"
+    "main.3fc38849.js.map": "/react-host-test/static/js/main.3fc38849.js.map"
   },
   "entrypoints": [
     "static/css/main.0292c8b9.css",
-    "static/js/main.b1838347.js"
+    "static/js/main.3fc38849.js"
   ]
 }
